@@ -1,0 +1,54 @@
+<!DOCTYPEhtml >
+
+< html  lang =" pt-br " >
+
+  < cabeça >
+
+    < título > Início </ título >
+
+    < meta  charset =" utf-8 "/>
+		< meta  name =" janela de visualização " conteúdo =" largura=largura do dispositivo, escala inicial=1,0 " >
+
+    < link  rel =" folha de estilo " type =" text/css " href =" ./css/style.css " >
+    < link  rel =" folha de estilo " href =" ./css/responsive.css " media = " tela e (max-width:768px) " >
+    < link  rel =" folha de estilo " href =" https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css "
+    integridade =" sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm "
+    crossorigin =" anônimo " >
+		< script  src =" ./js/script.js " adiar > </ script >
+
+    < link  rel =" preconnect " href =" https://fonts.googleapis.com " >
+    < link  rel =" preconnect " href =" https://fonts.gstatic.com " crossorigin >
+    < link  href =" https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&display=swap " rel =" folha de estilo " >
+    < script  src =" https://kit.fontawesome.com/a727f1e064.js " crossorigin =" anonymous " > </ script >
+
+  </ cabeça >
+  < corpo >
+    < cabeçalho >
+      < div  classe =" recipiente " >
+        < img  src =" ./img/letra1.png " alt =" FireWatch "/>
+
+        < div  class =" seção de menu " >
+          < div  class =" menu de alternância " >
+            < div  class =" um " > </ div >
+            < div  class =" dois " > </ div >
+            < div  class =" três " > </ div >
+          </div> _ _
+          <navegar> _ _
+            <ul> _ _
+              <li> _ _
+                < a  href =" home.html " > Início </ a >
+                </li> _ _
+                <li> _ _
+                < a  href =" base.html " > Base </ a >
+                </li> _ _
+                <li> _ _
+                < a  href =" mapa.html " > Mapa </ a >
+                </li> _ _
+                <li> _ _
+                < a  href =" index.html " > Sair </ a >
+                </li> _ _
+            </ul> _ _
+            </nav> _ _
+        </div> _ _
+      </div> _ _
+    </ cabeçalho >
